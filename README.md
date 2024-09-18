@@ -1,8 +1,6 @@
 # handshakehunter
 capture handshake files
 
-
-Usage
------------------
--h --> detailed information
-python3 handshakehunter.py --i wlan0mon --bssid C0:FD:84:F5:B6:A7 --channel 8
+Usage :
+- python3 handshakehunter.py -h --> detailed information
+- python3 handshakehunter.py --i wlan0mon --bssid C0:FD:84:F5:B6:A7 --channel 8
